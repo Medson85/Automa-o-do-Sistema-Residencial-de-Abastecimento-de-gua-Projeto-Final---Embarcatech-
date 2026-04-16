@@ -43,4 +43,4 @@ Acesse a simulação do sensor HC-SR04 no Wokwi:
 
 ## Apresentação no Youtube
 Acesse a apresentação do projeto no Youtube:
-[Projeto no Youtube]https://youtu.be/WEvqHvgd9ds
+[Projeto no Youtube](https://youtu.be/WEvqHvgd9ds)
